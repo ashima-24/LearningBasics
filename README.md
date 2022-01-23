@@ -1,1 +1,1 @@
-# LearningBasics
+# Learning basics of javascript
